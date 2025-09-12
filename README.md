@@ -1,4 +1,7 @@
 # Custome-Cosmetics-Version-8.51
+## IMPORTANT
+Files are in gofile because zip is more than 25MB
+https://gofile.io/d/7ZOTgL
 
 ## Skins
 Carl Johnson (cant see him in lobby)
