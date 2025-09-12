@@ -3,8 +3,6 @@
 ## Skins
 Carl Johnson (cant see him in lobby)
 
-Kor
-
 Modena Icon 
 
 Tracy Tina 
@@ -31,5 +29,8 @@ Evil Plan
 
 Back on 74
 
+Shadows of the Fallen
+
+Skibidi Escape 
 ## Meches
 Bubble Builds
