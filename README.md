@@ -37,3 +37,12 @@ Shadows of the Fallen
 Skibidi Escape 
 ## Meches
 Bubble Builds
+
+## Credits
+@venera.ud
+
+@murlio
+
+@xaviersobased._.
+
+
